@@ -1,0 +1,9 @@
+{
+	"userName" : "Siddhartha Rastogi", 
+	"userEmail" : "rastogis@hcl.com", 
+	"documentGUID" : "123456", 
+	"baseURL" : "https://demo.docusign.net/restapi/v2/accounts/3252232", 
+	"IntegratorKey" : "757c3471-3395-4824-95a0-8b506d85d4d1", 
+	"Username" : "rastogis@hcl.com", 
+	"Password" : "Hello123"
+}
