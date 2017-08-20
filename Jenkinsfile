@@ -1,5 +1,5 @@
 node {
-	stages{
+	
     		stage ('checkout') {
 		        git url: 'https://github.com/sidtanu/msfws.git'
 		}
@@ -8,5 +8,5 @@ node {
 			bat 'mvn -Dmaven.test.failure.ignore=true install'
 			echo "Ending Build"
 		}
-    	}
+    	
 }
