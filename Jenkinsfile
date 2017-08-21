@@ -1,7 +1,7 @@
 node {
 	
     		stage ('checkout') {
-		        git url: 'https://github.com/sidtanu/msfws.git'
+		        git url: 'https://github.com/sidtanu/msf-ws.git'
 		}
 		stage ('build') {
 			echo "Starting Build"
